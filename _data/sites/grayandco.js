@@ -11,7 +11,7 @@ module.exports = {
 	},
 	urls: [
 		"https://wearegray.co",
-    "https://laurenagray.com/",
+    		"https://laurenagray.com",
 		"https://tylergray.dev"
 	]
 };
