@@ -14,6 +14,6 @@ module.exports = {
 	},
 	urls: [
 		"https://www.cacc.edu/",
-        	"https://www.accs.edu/,
+        	"https://www.accs.edu/",
 	]
 };
