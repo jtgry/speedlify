@@ -10,7 +10,8 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.cacc.edu/",
-        	"https://www.accs.edu/"
+		"https://www.cacc.edu",
+        	"https://www.accs.edu",
+		"https://www.bscc.edu"
 	]
 };
